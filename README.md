@@ -1,3 +1,7 @@
+Udacity Object-Oriented JavaScript Project
+
+Project description: 
+
 frontend-nanodegree-arcade-game
 ===============================
 
